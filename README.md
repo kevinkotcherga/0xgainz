@@ -9,8 +9,8 @@
 - 🔫 Fun facts: I love competitive FPS games
 
 ### Connect with me:
-[![website](./img/twitter-light.svg)](https://twitter.com/0xgainzzz#gh-dark-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/0xgainzzz#gh-light-mode-only)
+[![website](./img/twitter-light.svg)](https://twitter.com/0xgainzzz#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/0xgainzzz#gh-dark-mode-only)
 &nbsp;&nbsp;
 
 ### Languages & tools:
