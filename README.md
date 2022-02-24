@@ -8,17 +8,15 @@
 - 🥅 2022 goals: Expand to more blockchains
 - 🔫 Fun facts: I love competitive FPS games
 
-<br />
-
 ### Connect with me:
 [![website](./img/twitter-light.svg)](https://twitter.com/0xgainzzz#gh-dark-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/0xgainzzz#gh-light-mode-only)
 &nbsp;&nbsp;
-[![website](./img/telegram.svg)](https://t.me/GainzStation)
-[![website](./img/telegram.svg)](https://discord.com/invite/TranquilityCity)
-
-<br />
 
 ### Languages & tools:
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="padding-right:10px;" />]
+
+
