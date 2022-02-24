@@ -2,9 +2,10 @@
 
 ## I'm a blockchain developer and project manager currently developing on the Harmony blockchain.🤠
 
-- 🏗️ I am the project manager and backend developer of [Tranquility City](https://tranquilitycity.one/) 
-- ☀️ I am the project manager of Amaterasu Finance [Amaterasu Finance](https://www.amaterasu.finance/#/swap)
-- 🤙 I'm  a Harmony.one validator. You can check my node out at [GainzStation.one](https://gainzstation.one/) 
+- 🏗️ Project manager and backend developer of [Tranquility City](https://tranquilitycity.one/) 
+- ☀️ Project manager for Amaterasu Finance [Amaterasu Finance](https://www.amaterasu.finance/#/swap)
+- 🤙 Harmony.one validator. You can check my node out at [GainzStation.one](https://gainzstation.one/)
+- 🍡 Community moderator and contributor for [Mochiswap](https://mochiswap.io/)   
 - 🥅 2022 goals: Expand to more blockchains
 - 🔫 Fun facts: I love competitive FPS games
 
