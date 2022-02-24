@@ -11,8 +11,8 @@
 <br />
 
 ### Connect with me:
-[![website](./img/twitter-light.svg)](https://twitter.com/0xgainzzz#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/0xgainzzz#gh-dark-mode-only)
+[![website](./img/twitter-light.svg)](https://twitter.com/0xgainzzz#gh-dark-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/0xgainzzz#gh-light-mode-only)
 &nbsp;&nbsp;
 [![website](./img/telegram.svg)](https://t.me/GainzStation)
 [![website](./img/telegram.svg)](https://discord.com/invite/TranquilityCity)
