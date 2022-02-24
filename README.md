@@ -14,14 +14,14 @@
 &nbsp;&nbsp;
 
 ### Languages & tools:
-<img alt="Visual Studio Code" height="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" >
-<img alt="HTML5" height="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" >
-<img alt="CSS3" height="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" >
-<img alt="JavaScript" height="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="padding-right:10px;" />
-<img alt="Vuejs" height="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" style="padding-right:10px;" >]
-<img alt="Nodejs" height="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" style="padding-right:10px;" >]
-<img alt="Graphql" height="20px" src="https://raw.githubusercontent.com/github/explore/e65ef46ef3e7bc457c93622f6a89fe8d3fd131d5/topics/graphql/graphql.png" style="padding-right:10px;" >
-<img alt="Docker" height="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" style="padding-right:10px;" >
+<img align ="left" alt="Visual Studio Code" height="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" >
+<img align="left"alt="HTML5" height="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" >
+<img align="left" alt="CSS3" height="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" >
+<img align="left" alt="JavaScript" height="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="padding-right:10px;" />
+<img align="left" alt="Vuejs" height="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" style="padding-right:10px;" >
+<img align="left" alt="Nodejs" height="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" style="padding-right:10px;" >
+<img align="left" alt="Graphql" height="20px" src="https://raw.githubusercontent.com/github/explore/e65ef46ef3e7bc457c93622f6a89fe8d3fd131d5/topics/graphql/graphql.png" style="padding-right:10px;" >
+<img align="left" alt="Docker" height="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" style="padding-right:10px;" >
 
 ## :zap: GitHub Stats
 
