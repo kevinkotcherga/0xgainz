@@ -27,7 +27,7 @@
 <img align="left" alt="Github" width="25px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" >
 <img align="left" alt="Linux" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" style="padding-right:10px;" >
 
-</br />
+<br />
 
 ## :zap: GitHub Stats
 
