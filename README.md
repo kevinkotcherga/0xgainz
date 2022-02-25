@@ -1,4 +1,4 @@
-# Hi, I'm 0xgainz! 👋 
+# Hi, I'm 0xgainz! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 ## I'm a blockchain developer and project manager currently developing on the Harmony blockchain.🤠
 
@@ -6,13 +6,16 @@
 - ☀️ Project manager for Amaterasu Finance [Amaterasu Finance](https://www.amaterasu.finance/#/swap)
 - 🤙 Harmony.one validator. You can check my node out at [GainzStation.one](https://gainzstation.one/)
 - 🍡 Community moderator and contributor for [Mochiswap](https://mochiswap.io/)   
-- 🥅 2022 goals: Expand to more blockchains
+- 🥅 2022 goals: Expand to more blockchains & stay healthy
 - 🔫 Fun facts: I love competitive FPS games
 
 ### Connect with me:
-[![website](./img/twitter-light.svg)](https://twitter.com/0xgainzzz#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/0xgainzzz#gh-dark-mode-only)
-&nbsp;&nbsp;
+<a href ="https://twitter.com/0xgainzzz"><img align ="left" alt="Twitter" width="25px" src="./img/twitter.svg" style="padding-right:10px;"></a>
+<a href ="https://t.me/GainzStation"><img align ="left" alt="Telegram" width="25px" src="./img/telegram.svg" style="padding-right:10px;"></a>
+<a href ="https://discord.com/invite/tranquilitycity"><img align ="left" alt="Discord" width="25px" src="./img/discord.svg" style="padding-right:10px;"></a>
+
+<br />
+<br />
 
 ### Languages & tools:
 <img align ="left" alt="Visual Studio Code" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" >
