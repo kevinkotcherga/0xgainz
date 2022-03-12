@@ -1,11 +1,11 @@
 # Hi, I'm 0xgainz! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-## I'm a blockchain developer and project manager currently developing on the Harmony blockchain.🤠
+## I'm a web3 fullstack developer and project manager currently developing on the Harmony blockchain.🤠
 
 - 🏗️ Project manager and backend developer of [Tranquility City](https://tranquilitycity.one/) 
 - ☀️ Project manager for Amaterasu Finance [Amaterasu Finance](https://www.amaterasu.finance/#/swap)
+- 🍡 Community moderator and contributor for [Mochiswap](https://mochiswap.io/)  
 - 🤙 Harmony.one validator. You can check my node out at [GainzStation.one](https://gainzstation.one/)
-- 🍡 Community moderator and contributor for [Mochiswap](https://mochiswap.io/)   
 - 🥅 2022 goals: Expand to more blockchains & stay healthy
 - 🔫 Fun facts: I love competitive FPS games
 
